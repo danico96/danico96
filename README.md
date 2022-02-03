@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I´m Daniel 👋👨‍💻🗺️
 
-<!--
-**danico96/danico96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const daniel = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Node, Docker]
+}
+```
 
-Here are some ideas to get you started:
+<div align=center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<i>Follow me:</i><br>
+
+<a href="https:/www.linkedin.com/in/danielcabreraojeda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/danielco96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+</div>
