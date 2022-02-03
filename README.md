@@ -1,4 +1,9 @@
-### Hi, I´m Daniel 👋👨‍💻🗺️
+<h2> Hi, I´m Daniel 👋👨‍💻🗺️ </h2>
+
+<p><em>Electronic Engineering at Universidad Nacional de Colombia </br>
+  Full Stack Developer at Digital House </em></p>
+
+### A little more about me...  
 
 ```javascript
 const daniel = {
